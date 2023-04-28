@@ -1,0 +1,8 @@
+1
+1
+0
+0
+1
+/data/rooms/roomzk.txt
+/data/enemies/enemyzk.txt
+/data/items/itemzk.txt

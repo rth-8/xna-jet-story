@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rth_jet-story", "rth_jet-story\rth_jet-story.csproj", "{E34D37BF-A902-45AA-A92F-14AA57D56EE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rth_jet-storyContent", "rth_jet-story\Content\rth_jet-storyContent.contentproj", "{FD0D0001-D673-4A22-AF85-207465197BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E34D37BF-A902-45AA-A92F-14AA57D56EE4}.Debug|x86.ActiveCfg = Debug|x86
+		{E34D37BF-A902-45AA-A92F-14AA57D56EE4}.Debug|x86.Build.0 = Debug|x86
+		{E34D37BF-A902-45AA-A92F-14AA57D56EE4}.Release|x86.ActiveCfg = Release|x86
+		{E34D37BF-A902-45AA-A92F-14AA57D56EE4}.Release|x86.Build.0 = Release|x86
+		{FD0D0001-D673-4A22-AF85-207465197BCE}.Debug|x86.ActiveCfg = Debug|x86
+		{FD0D0001-D673-4A22-AF85-207465197BCE}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

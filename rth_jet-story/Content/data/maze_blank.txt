@@ -1,0 +1,14 @@
+<pocet_radku>
+<pocet_sloupcu>
+<startovni_mistnost_x>
+<startovni_mistnost_y>
+<pocet bazi>
+<jmeno_souboru_mistnosti>
+<jmeno_souboru_mistnosti_nepratel>
+<jmeno_souboru_mistnosti_predmetu>
+.
+.
+.
+<jmeno_souboru_mistnosti>
+<jmeno_souboru_mistnosti_nepratel>
+<jmeno_souboru_mistnosti_predmetu>
